@@ -1,0 +1,8 @@
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\bin\Debug\CGScopeChallengeCode.exe.config
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\bin\Debug\CGScopeChallengeCode.exe
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\bin\Debug\CGScopeChallengeCode.pdb
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\obj\Debug\CGScopeChallengeCode.csproj.CoreCompileInputs.cache
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\obj\Debug\CGScopeChallengeCode.exe
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\obj\Debug\CGScopeChallengeCode.pdb
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\bin\Debug\RapidPriorityQueue.dll
+C:\Users\Nadeem\Source\repos\CGScopeChallengeCode\CGScopeChallengeCode\obj\Debug\CGScopeChallengeCode.csprojResolveAssemblyReference.cache
